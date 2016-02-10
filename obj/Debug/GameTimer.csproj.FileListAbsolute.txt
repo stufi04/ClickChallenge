@@ -1,0 +1,11 @@
+D:\SVI\12 klas\GameTimer\GameTimer\bin\Debug\GameTimer.exe
+D:\SVI\12 klas\GameTimer\GameTimer\bin\Debug\GameTimer.pdb
+D:\SVI\12 klas\GameTimer\GameTimer\obj\Debug\ResolveAssemblyReference.cache
+D:\SVI\12 klas\GameTimer\GameTimer\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\SVI\12 klas\GameTimer\GameTimer\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\SVI\12 klas\GameTimer\GameTimer\obj\Debug\GameTimer.csproj.GenerateResource.Cache
+D:\SVI\12 klas\GameTimer\GameTimer\obj\Debug\GameTimer.exe
+D:\SVI\12 klas\GameTimer\GameTimer\obj\Debug\GameTimer.pdb
+D:\SVI\12 klas\GameTimer\GameTimer\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\GameTimer\GameTimer\obj\Debug\GameTimer.exe
+E:\GameTimer\GameTimer\obj\Debug\GameTimer.pdb
